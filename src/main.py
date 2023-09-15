@@ -9,7 +9,7 @@ VERSION = "0.1.0"
 
 
 def version():
-    print(f"{BG_PURPLE} Terminal Video Player Python {RESET}")
+    print(f"{BG_PURPLE} Terminal Video Player {RESET}")
     print(f"Version: {PURPLE}{VERSION}{RESET}")
 
 def main():

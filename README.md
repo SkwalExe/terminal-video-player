@@ -1,6 +1,25 @@
-# Python Terminal Video Player
+<p align="center">
+  <img src="assets/logo.png">
+</p>
 
-🎥 Highly customizable terminal video player written in Python using [OpenCV](https://opencv.org/).
+<p align="center">
+  <img src="https://img.shields.io/github/license/SkwalExe/terminal-video-player?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/SkwalExe/terminal-video-player?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/SkwalExe/terminal-video-player?color=blueviolet&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/SkwalExe/terminal-video-player?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-pr/SkwalExe/terminal-video-player?color=tomato&style=for-the-badge">
+
+</p>
+
+<p align="center">💠 🎥 Highly customizable terminal video player written in Python using OpenCV. 💠</p>
+
+
+
+
+
+# Terminal Video Player
+
+
 
 ![banner](assets/banner.gif)
 
@@ -9,7 +28,8 @@
 First, clone the repository:
 
 ```bash
-git clone https://github.com/SkwalExe/terminal-video-player-python
+git clone https://github.com/SkwalExe/terminal-video-player
+cd terminal-video-player
 ```
 
 Then, install the dependencies:
