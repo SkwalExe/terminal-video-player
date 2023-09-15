@@ -2,7 +2,7 @@ from colors import *
 
 def help(defaults):
     print() 
-    print(f"{BG_PURPLE} Terminal Video Player Python {RESET}")
+    print(f"{BG_PURPLE} Terminal Video Player{RESET}")
     print(bar)
     print(f"Author: {PURPLE}SkwalExe <Leopold Koprivnik>{RESET}")
     print(f"Github: {PURPLE}https://github.com/SkwalExe{RESET}")
